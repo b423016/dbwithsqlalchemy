@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-decouple
+python-dotenv
+SQLAlchemy
+pydantic[email]
+pytest
+httpx
